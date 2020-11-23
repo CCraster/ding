@@ -1,24 +1,16 @@
-# ding
+# Ding
 
-## Project setup
-```
+## 项目启动
+
+```bash
+# 安装依赖
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
+# 本地开发启动
 npm run serve
-```
-
-### Compiles and minifies for production
-```
+# 项目打包
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Deploy
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+push master 分支，github ci 自动打包和部署

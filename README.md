@@ -11,6 +11,6 @@ npm run serve
 npm run build
 ```
 
-### Deploy
+## 项目部署
 
 push master 分支，github ci 自动打包和部署

@@ -3,14 +3,14 @@
 </template>
 
 <script>
-import HelloDing from './components/HelloDing.vue';
+import HelloDing from './components/HelloDing.vue'
 
 export default {
   name: 'App',
   components: {
     HelloDing,
   },
-};
+}
 </script>
 
 <style>
